@@ -1,0 +1,1 @@
+{"i:gregtech:gt_armor:21":[{"n":"Advanced NanoMuscleâ¢ Suite Chestplate","t":"Crafting","e":0,"d":0,"x":"ULV","h":0,"a":1,"i":"Advanced Thruster Jetpack (1), LPIC (2), NanoMuscleâ¢ Suite Chestplate (1), Iron Wire Cutter (1), Iron Screwdriver (1), 4x Platinum Wire (2), Mainframe (1)","g":""}]}

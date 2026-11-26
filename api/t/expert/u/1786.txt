@@ -1,0 +1,1 @@
+{"i:nuclearcraft:depleted_fuel_thorium:0":[{"n":"Tiny Clump of Uranium-233","t":"Centrifuge","e":24,"d":1200,"x":"LV","h":0,"a":1,"i":"Depleted TBU Fuel (1)","g":"62335db9155edceab97c.webp"}]}

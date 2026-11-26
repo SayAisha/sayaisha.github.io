@@ -1,0 +1,1 @@
+{"i:appliedenergistics2:paint_ball:5":[{"n":"Paint Ball - Lumen Lime","t":"Crafting","e":0,"d":0,"x":"ULV","h":0,"a":1,"i":"Paint Ball - Lime (8), Glowstone Dust (1)","g":"a3f20505b7b8ea6383dc.webp"}],"i:enderio:item_soul_vial:1:bedf0d5a407f997b8400e337079d992e2fcc9114":[{"n":"Spawn Cow","t":"Crafting","e":0,"d":0,"x":"ULV","h":0,"a":1,"i":"Soul Vial (1)","g":""}]}

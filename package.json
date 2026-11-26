@@ -1,0 +1,14 @@
+{
+  "name": "nomicodex-functions",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:worker": "npx --yes esbuild@0.24.0 worker/index.js --bundle --format=esm --target=es2022 --outfile=dist/worker.js",
+    "test": "node test-search.mjs"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^153.0.0",
+    "@vercel/analytics": "^2.0.1",
+    "puppeteer-core": "^25.11.0"
+  }
+}
